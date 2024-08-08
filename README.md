@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   - 🎨 **Bootstrap**
   - 🖥️ **HTML & CSS**
   - 🖌️ **Photoshop**
-### Research Publications
+### 📚 Research Publications
 - [GeoSurvey: A cloud-based mobile app for efficient land surveys and big data collection](https://www.sciencedirect.com/science/article/pii/S2665963824000083?via%3Dihub)
 - [Classification of tobacco using remote sensing and deep learning techniques](https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.21382)
 - [On the Performance of Temporal Stacking and Vegetation Indices for Detection and Estimation of Tobacco Crop](https://ieeexplore.ieee.org/document/9102304)
