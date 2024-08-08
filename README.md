@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔧 I’m experienced in **Flutter** app development, **Web Development** using **CodeIgniter**, **Flask**, **Bootstrap**, **HTML**, **CSS**, **Python**, and **Photoshop**.
 - 📷 I enjoy **photography** and **videography** during my travels.
 - 🔭 I’m currently working on Flutter Apps
+- 🔗 **Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-zeeshan-developer/))**
 ### 🛠️ Technologies:  
   - 🎨 **Flutter**
   - 🌐 **CodeIgniter**
