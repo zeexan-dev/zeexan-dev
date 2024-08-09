@@ -33,4 +33,13 @@ Here are some ideas to get you started:
 - [On the Performance of Temporal Stacking and Vegetation Indices for Detection and Estimation of Tobacco Crop](https://ieeexplore.ieee.org/document/9102304)
 
 <!--START_SECTION:waka-->
+
+```txt
+YAML              3 hrs 4 mins    ████████████████▒░░░░░░░░   65.21 %
+Markdown          40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+Bash              30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+Groovy            10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Swift             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+```
+
 <!--END_SECTION:waka-->
