@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              3 hrs 4 mins    ████████████████▒░░░░░░░░   65.21 %
-Markdown          40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Bash              30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Groovy            10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Swift             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+YAML              3 hrs 41 mins   ███████████▒░░░░░░░░░░░░░   45.32 %
+Dart              2 hrs 21 mins   ███████▒░░░░░░░░░░░░░░░░░   29.09 %
+Markdown          47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+Bash              46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Groovy            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
