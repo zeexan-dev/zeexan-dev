@@ -39,8 +39,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     4 hrs 44 mins   █████████████████████████   99.86 %
-Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Dart     6 hrs 2 mins    ████████████████████████▓   98.82 %
+YAML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
