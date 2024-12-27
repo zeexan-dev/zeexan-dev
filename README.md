@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   40 mins         █████████████████░░░░░░░░   67.37 %
-Dart   16 mins         ███████░░░░░░░░░░░░░░░░░░   28.13 %
-YAML   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Dart     3 mins          ████████████████████████░   96.08 %
+Groovy   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
