@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   3 mins          █████████████████████████   100.00 %
+Dart   1 hr 38 mins    █████████████████▒░░░░░░░   68.83 %
+HTML   44 mins         ███████▓░░░░░░░░░░░░░░░░░   31.17 %
 ```
 
 <!--END_SECTION:waka-->
