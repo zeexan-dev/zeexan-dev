@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              6 hrs 43 mins   ██████████████████▒░░░░░░   73.59 %
-Groovy            1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-HTML              33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Java Properties   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-CocoaPods         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Dart              8 hrs 22 mins   ███████████████████▓░░░░░   79.25 %
+Groovy            1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
+HTML              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Java Properties   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+YAML              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
