@@ -39,7 +39,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart              1 hr 41 mins    █████████████▒░░░░░░░░░░░   53.40 %
+YAML              39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+Groovy            36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
+Java Properties   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+JSON              4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
