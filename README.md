@@ -39,11 +39,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV          24 mins         █████████░░░░░░░░░░░░░░░░   35.42 %
-Python       24 mins         ████████▓░░░░░░░░░░░░░░░░   34.66 %
-Text         14 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-Other        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
