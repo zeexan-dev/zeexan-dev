@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 min           █████████████████████████   100.00 %
+Dart     3 hrs 26 mins   ███████████████████████▒░   92.99 %
+Python   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Text     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+YAML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
