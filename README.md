@@ -39,10 +39,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     36 mins         █████████████▒░░░░░░░░░░░   53.54 %
-Dart     11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
-CSS      10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Groovy   9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Dart   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
