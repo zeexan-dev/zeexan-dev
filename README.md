@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart    2 hrs 36 mins   ███████████▓░░░░░░░░░░░░░   46.15 %
-HTML    2 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.50 %
-CSS     45 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Dart    2 hrs 36 mins   ███████████▓░░░░░░░░░░░░░   46.40 %
+HTML    2 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   40.73 %
+CSS     43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
