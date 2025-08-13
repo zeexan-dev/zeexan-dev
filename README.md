@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP               6 hrs 27 mins   █████████████▒░░░░░░░░░░░   53.15 %
-Blade Template    2 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-HTML              1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Dart              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-JavaScript        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+PHP               8 hrs 27 mins   ███████████████░░░░░░░░░░   59.50 %
+Blade Template    2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+HTML              1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Dart              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+JavaScript        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
