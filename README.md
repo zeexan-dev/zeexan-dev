@@ -39,11 +39,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      1 hr 3 mins     █████████░░░░░░░░░░░░░░░░   36.11 %
-HTML     35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.94 %
-CSV      27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
-HTTP     22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Python   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+PHP   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
