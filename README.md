@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ###
 - 🔧 I’m experienced in **Flutter** app development, **Web Development** using **Laravel/CodeIgniter**, **Flask**, **Bootstrap**, **Python**.
 - 📷 I enjoy **photography** and **videography** during my travels.
-- 🔭 I’m currently working on Flutter Apps
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zeeshan-developer/)
 
