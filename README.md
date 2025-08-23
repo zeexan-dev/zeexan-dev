@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    16 mins         █████████████████▓░░░░░░░   70.47 %
-HTML   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.53 %
+Docker   11 mins         ████████████▒░░░░░░░░░░░░   49.87 %
+HTML     6 mins          ███████░░░░░░░░░░░░░░░░░░   28.38 %
+Bash     5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
 ```
 
 <!--END_SECTION:waka-->
