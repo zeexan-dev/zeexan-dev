@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   6 hrs 50 mins   ███████████████████░░░░░░   76.58 %
-CSS    2 hrs 5 mins    ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+PHP              1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   40.16 %
+Blade Template   1 hr 5 mins     █████████▓░░░░░░░░░░░░░░░   38.27 %
+HTML             28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Bash             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+JSON             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
