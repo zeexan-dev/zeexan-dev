@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          3 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.83 %
-Python       2 hrs 51 mins   ████████▓░░░░░░░░░░░░░░░░   34.49 %
-Dart         1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-HTML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-CSV          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+PHP              5 hrs 33 mins   █████████████░░░░░░░░░░░░   52.61 %
+Python           2 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
+Dart             1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+HTML             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Blade Template   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
