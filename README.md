@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 8 mins     ████████████████████░░░░░   80.61 %
-Dart         13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Dart              3 hrs 14 mins   ████████████████░░░░░░░░░   63.46 %
+PHP               1 hr 9 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
+Groovy            21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+YAML              14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+JSON              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
