@@ -37,11 +37,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      3 hrs 9 mins    █████████████████████▒░░░   85.11 %
-Dart     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-YAML     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-XML      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Groovy   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+PHP    3 hrs 9 mins    ███████████████████████▒░   93.82 %
+Dart   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
