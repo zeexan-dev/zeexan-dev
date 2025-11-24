@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    3 hrs 9 mins    ███████████████████████▒░   93.82 %
-Dart   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+PHP    3 hrs 9 mins    ███████████████████████░░   91.35 %
+Dart   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
 
 <!--END_SECTION:waka-->
