@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     4 mins          ████████████████████████▓   99.16 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python   2 hrs 12 mins   ████████████████████████▒   96.78 %
+Dart     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
