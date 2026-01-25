@@ -37,9 +37,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 7 mins    ████████████████████████▓   98.42 %
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python            3 hrs 7 mins    ████████████████████▓░░░░   82.76 %
+Dart              34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+HTML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
