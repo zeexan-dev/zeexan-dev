@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> **Bootstrap**
 
 ### 📚 Research Publications
+- [Development of an Intelligent System for Accurate Identification of Indeginous Wood Species Using Microscopic Images](https://ieeexplore.ieee.org/document/11321462)
 - [GeoSurvey: A cloud-based mobile app for efficient land surveys and big data collection](https://www.sciencedirect.com/science/article/pii/S2665963824000083?via%3Dihub)
 - [Classification of tobacco using remote sensing and deep learning techniques](https://acsess.onlinelibrary.wiley.com/doi/10.1002/agj2.21382)
 - [On the Performance of Temporal Stacking and Vegetation Indices for Detection and Estimation of Tobacco Crop](https://ieeexplore.ieee.org/document/9102304)
