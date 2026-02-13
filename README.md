@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         15 hrs 22 mins  ███████████████▒░░░░░░░░░   60.84 %
-Python       6 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Kotlin       2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-PHP          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Groovy       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Dart         10 hrs 51 mins  █████████████░░░░░░░░░░░░   52.37 %
+Python       6 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.74 %
+Kotlin       2 hrs 49 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+PHP          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Groovy       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
