@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              13 hrs 16 mins        ██████████████████████▓░░   90.20 %
-YAML              50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Kotlin            27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Markdown          6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Groovy            1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Dart              14 hrs 46 mins        █████████████████████▓░░░   86.63 %
+YAML              1 hr 8 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Kotlin            27 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Markdown          20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+HTML              17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
