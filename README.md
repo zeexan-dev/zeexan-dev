@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown        6 hrs 37 mins         █████████▒░░░░░░░░░░░░░░░   37.80 %
-Dart            6 hrs                 ████████▓░░░░░░░░░░░░░░░░   34.30 %
-PHP             2 hrs 7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-TOML            1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-SQL             44 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Dart         5 hrs 9 mins          ██████████▓░░░░░░░░░░░░░░   42.64 %
+Markdown     2 hrs 52 mins         ██████░░░░░░░░░░░░░░░░░░░   23.78 %
+PHP          1 hr 25 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+TypeScript   1 hr 16 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+SQL          28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
