@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       45 mins               ██████████████▓░░░░░░░░░░   59.16 %
-Markdown   26 mins               ████████▒░░░░░░░░░░░░░░░░   33.99 %
-YAML       5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Markdown   58 mins               █████████████░░░░░░░░░░░░   51.72 %
+Dart       45 mins               ██████████░░░░░░░░░░░░░░░   40.34 %
+YAML       8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
 ```
 
 <!--END_SECTION:waka-->
