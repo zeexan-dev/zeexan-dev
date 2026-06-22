@@ -38,9 +38,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   58 mins               █████████████░░░░░░░░░░░░   51.72 %
-Dart       45 mins               ██████████░░░░░░░░░░░░░░░   40.34 %
-YAML       8 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Markdown     2 hrs 20 mins         ██████████████▒░░░░░░░░░░   57.11 %
+Dart         45 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+YAML         23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+Python       19 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Git Config   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
