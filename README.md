@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          1 hr 35 mins          ██████████▒░░░░░░░░░░░░░░   41.20 %
-Dart              1 hr 16 mins          ████████▒░░░░░░░░░░░░░░░░   32.73 %
-Groovy            23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Python            12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Other             12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Markdown          1 hr 21 mins          █████████████▒░░░░░░░░░░░   52.98 %
+Dart              45 mins               ███████▒░░░░░░░░░░░░░░░░░   29.63 %
+Other             18 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Java Properties   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Groovy            2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
