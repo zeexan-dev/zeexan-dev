@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          1 hr 1 min            ████████████████████▒░░░░   80.70 %
-Other             7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Java Properties   7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Markdown          2 hrs 10 mins         ███████████████▒░░░░░░░░░   61.77 %
+Other             1 hr 13 mins          ████████▓░░░░░░░░░░░░░░░░   34.81 %
+Java Properties   7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
