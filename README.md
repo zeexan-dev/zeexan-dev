@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          2 hrs 55 mins         ███████████████▓░░░░░░░░░   62.28 %
-Other             1 hr 38 mins          ████████▓░░░░░░░░░░░░░░░░   35.15 %
+Markdown          2 hrs 42 mins         ██████████████▒░░░░░░░░░░   57.75 %
+Other             1 hr 51 mins          ██████████░░░░░░░░░░░░░░░   39.69 %
 Java Properties   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
