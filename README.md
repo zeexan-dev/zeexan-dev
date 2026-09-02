@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          4 hrs 22 mins         ██████████▓░░░░░░░░░░░░░░   42.78 %
-Other             1 hr 26 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-JSON              1 hr 24 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-CSS               32 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-Kotlin            30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Markdown          4 hrs 15 mins         █████████▓░░░░░░░░░░░░░░░   38.22 %
+Other             1 hr 51 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+JSON              1 hr 24 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+PHP               1 hr 20 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+CSS               32 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
