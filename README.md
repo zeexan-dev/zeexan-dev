@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         53 mins               ████████████▓░░░░░░░░░░░░   51.22 %
-Other            15 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-Blade Template   11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-PHP              11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-Bash             9 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Markdown         40 mins               ████████████░░░░░░░░░░░░░   47.60 %
+Other            15 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
+Blade Template   11 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
+Bash             9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+PHP              4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
