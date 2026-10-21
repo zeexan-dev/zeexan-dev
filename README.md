@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              31 mins               ████████▓░░░░░░░░░░░░░░░░   34.38 %
-Git Config       17 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
-Bash             15 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Blade Template   11 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Other            8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Markdown         17 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+Bash             15 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
+Git Config       13 mins               █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Blade Template   11 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Other            8 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
 ```
 
 <!--END_SECTION:waka-->
